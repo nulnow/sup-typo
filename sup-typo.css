@@ -55,6 +55,16 @@
 }
 
 .sup-typo a {
+    color: rgba(66,165,245 ,1);
+    text-decoration: none;
+}
+
+.sup-typo a:hover {
+    text-decoration: underline;
+}
+
+.sup-typo a:active {
+    color: rgba(229,115,115 ,1);
     text-decoration: none;
 }
 
@@ -64,23 +74,6 @@
 
     font-size: 1.05em;
     line-height: 1.89em;
-}
-
-.sup-typo ul a,
-.sup-typo ol a {
-    color: rgba(66,165,245 ,1);
-    text-decoration: none;
-}
-
-.sup-typo ul a:hover,
-.sup-typo ol a:hover {
-    text-decoration: underline;
-}
-
-.sup-typo ul a:active,
-.sup-typo ol a:active {
-    color: rgba(229,115,115 ,1);
-    text-decoration: none;
 }
 
 .sup-typo h1.title {
