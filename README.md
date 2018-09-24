@@ -1,5 +1,4 @@
-# sup-typo
-Supreme Typography
+# Supreme Typography
 
 Очень простая web типографика
 
